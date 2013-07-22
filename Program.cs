@@ -23,7 +23,7 @@ namespace RomanNumeralsKata
           Console.WriteLine("Converted: {0}", roman);
         }
         else
-          Console.WriteLine("Not a valid number. Numers from 1 to 3000 are supported. Try again.");
+          Console.WriteLine("Not a valid number. Numbers from 1 to 3000 are supported. Try again.");
       }
     }
   }
