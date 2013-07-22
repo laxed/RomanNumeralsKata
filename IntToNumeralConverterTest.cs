@@ -46,6 +46,7 @@ namespace RomanNumeralsKata
           new object[] {52, "LII"},
           new object[] {83, "LXXXIII"},
           new object[] {142, "CXLII"},
+          new object[] {262, "CCLXII"},
           new object[] {890, "DCCCXC"},
           new object[] {1000, "M"},
           new object[] {1001, "MI"},
